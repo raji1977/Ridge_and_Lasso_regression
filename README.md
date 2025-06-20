@@ -1,2 +1,9 @@
-# Ridge_and_Lasso_regression
-Python implementation of Ridge and Lasso regression models to analyze and regularize data. Includes visualization and error evaluation metrics. 
+# Ridge and Lasso Regression
+
+This notebook applies Ridge and Lasso Regression on a regression dataset. Regularization effects are visualized and performance metrics are compared.
+
+## Tools & Libraries
+- Python (Google Colab)
+- scikit-learn
+- matplotlib
+- pandas, numpy
